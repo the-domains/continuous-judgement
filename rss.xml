@@ -4,8 +4,15 @@
         <description><![CDATA[I make stuff]]></description>
         <link>https://thegrid.ai/continuous-judgement/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 05:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 05:12:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/continuous-judgement/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Holiday Spektakulär]]></title>
+            <description><![CDATA[<article><h1>The Holiday Spektakulär</h1><p>A family out in search of the holiday spirit find more than they bargained for when their car strikes what appears to be a grizzled, homeless man who has had a few too many spirits himself. Watch the Behind the Scenes here: https://vimeo.com/145452234 The Holiday Spektakulär Vol.</p></article>]]></description>
+            <link>https://vimeo.com/149652370</link>
+            <guid isPermaLink="false">b080accb-69e8-4e90-92ab-3dc6c86c965f</guid>
+            <pubDate>Sun, 26 Jun 2016 05:12:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67114f05-dee4-481b-afd3-c79cdf32c713.jpg">]]></description>
@@ -53,13 +60,6 @@
             <description><![CDATA[<article><h1>Patrick Danber 2013 Reel</h1><p>Breakdown-all projects are by my production unless otherwise noted.</p></article>]]></description>
             <link>https://vimeo.com/72496567</link>
             <guid isPermaLink="false">87f71c42-9a7d-4305-8fc9-06f20f8ac2e0</guid>
-            <pubDate>Sun, 26 Jun 2016 04:28:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Holiday Spektakulär]]></title>
-            <description><![CDATA[<article><h1>The Holiday Spektakulär</h1><p>A family out in search of the holiday spirit find more than they bargained for when their car strikes what appears to be a grizzled, homeless man who has had a few too many spirits himself. Watch the Behind the Scenes here: https://vimeo.com/145452234 The Holiday Spektakulär Vol.</p></article>]]></description>
-            <link>https://vimeo.com/149652370</link>
-            <guid isPermaLink="false">b080accb-69e8-4e90-92ab-3dc6c86c965f</guid>
             <pubDate>Sun, 26 Jun 2016 04:28:28 GMT</pubDate>
         </item>
     </channel>
