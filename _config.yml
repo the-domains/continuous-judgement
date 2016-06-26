@@ -2,31 +2,31 @@ author:
   name: Patrick Danber
   email: patrick@patrickdanber.com
 title: How I make me.
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/543d0879-dfde-4867-a3b1-9ab0aff90da6.ico
+name: Patrick Danber
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.4258862
   brandStrength: 0.796098206192255
   lightness: 0
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#020200'
+    - '#FFFFFF'
+    - '#B1313D'
+    - '#99B18D'
+    - '#065D47'
   rhythmicContrast: 0.09613316
 typography_spectrum: 0.5290011
 layout_spectrum: 1
-name: Patrick Danber
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/543d0879-dfde-4867-a3b1-9ab0aff90da6.ico
