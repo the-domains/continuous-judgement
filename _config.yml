@@ -25,8 +25,8 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-  rhythmicContrast: 0.433405
-typography_spectrum: 0.5204082
+  rhythmicContrast: 0.1906552
+typography_spectrum: 0.06928033
 layout_spectrum: 0.7975295
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/543d0879-dfde-4867-a3b1-9ab0aff90da6.ico
