@@ -2,7 +2,6 @@ author:
   name: Patrick Danber
   email: patrick@patrickdanber.com
 title: How I make me.
-name: Patrick Danber
 collections:
   - index:
       path: /
@@ -17,7 +16,7 @@ collections:
       number: 10
 color:
   saturation: 0.8748657
-  brandStrength: 0.4005274320952594
+  brandStrength: 0.1745435
   lightness: 0.2874517
   brandColors:
     - '#000000'
@@ -30,3 +29,4 @@ typography_spectrum: 0.06928033
 layout_spectrum: 0.7975295
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/543d0879-dfde-4867-a3b1-9ab0aff90da6.ico
+name: Patrick Danber
