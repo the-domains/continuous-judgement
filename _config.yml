@@ -16,16 +16,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.4258862
-  brandStrength: 0.796098206192255
-  lightness: 0
+  saturation: 0.122986
+  brandStrength: 0.1648765
+  lightness: 0.2475832
   brandColors:
     - '#020200'
     - '#FFFFFF'
     - '#B1313D'
     - '#99B18D'
     - '#065D47'
-  rhythmicContrast: 0.09613316
+  rhythmicContrast: 0.7781955
 typography_spectrum: 0.5290011
 layout_spectrum: 1
 favicon: >-
