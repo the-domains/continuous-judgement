@@ -1,0 +1,14 @@
+layout_spectrum: 0.3309880325105041
+typography_spectrum: 0.5829056946095079
+color:
+  brandStrength: 0.796098206192255
+  lightness: 0.7857030918821692
+  saturation: 0.2152675478719175
+  rhythmicContrast: 0.2771014317404479
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: continuous judgement
