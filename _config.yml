@@ -16,17 +16,17 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.122986
-  brandStrength: 0.1648765
-  lightness: 0.2475832
+  saturation: 0.7447681182529777
+  brandStrength: 0.40052743209525943
+  lightness: 0.28745170100592077
   brandColors:
-    - '#020200'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
     - '#FFFFFF'
-    - '#B1313D'
-    - '#99B18D'
-    - '#065D47'
-  rhythmicContrast: 0.7781955
-typography_spectrum: 0.5290011
-layout_spectrum: 1
+    - '#FF9800'
+  rhythmicContrast: 0.21429656189866364
+typography_spectrum: 0.15831404156051576
+layout_spectrum: 0.2630080725066364
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/543d0879-dfde-4867-a3b1-9ab0aff90da6.ico
