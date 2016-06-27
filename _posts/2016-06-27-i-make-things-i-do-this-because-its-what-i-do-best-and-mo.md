@@ -6,12 +6,12 @@ description: >-
   a hundred times. Exploring entirely new ideas. I strive to expand and improve
   my craft with each project. Each new project brings it’s own challenges and
   triumphs and, by its end, becomes another part of who I am.
-dateModified: '2016-06-27T03:44:41.425Z'
-datePublished: '2016-06-27T03:44:49.139Z'
+dateModified: '2016-06-27T03:44:56.121Z'
+datePublished: '2016-06-27T03:44:56.367Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-27-i-make-things-i-do-this-because-its-what-i-do-best-and-mo.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
