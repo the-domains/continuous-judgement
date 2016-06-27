@@ -44,10 +44,10 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/149652370'
 title: The Holiday Spektakulär
-datePublished: '2016-06-26T05:12:01.672Z'
-dateModified: '2016-06-26T05:12:01.449Z'
+datePublished: '2016-06-27T03:17:27.658Z'
+dateModified: '2016-06-27T03:17:27.451Z'
 sourcePath: _posts/2016-06-26-the-holiday-spektakular.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
