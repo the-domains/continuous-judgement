@@ -15,18 +15,18 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 1
-  brandStrength: 0.1745435
-  lightness: 0.2959183
+  saturation: 0.19283251324668527
+  brandStrength: 0.5008147554472089
+  lightness: 0.809880310902372
   brandColors:
     - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  rhythmicContrast: 0.83942
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  rhythmicContrast: 0.86328613338992
 typography_spectrum: 0.3968851
-layout_spectrum: 0.7599356
+layout_spectrum: 0.8314193184487522
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/543d0879-dfde-4867-a3b1-9ab0aff90da6.ico
 name: Patrick Danber
