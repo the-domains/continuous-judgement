@@ -1,13 +1,13 @@
 ---
 description: Patrick Danber
-dateModified: '2016-06-28T05:52:59.199Z'
-datePublished: '2016-06-28T05:53:02.149Z'
+dateModified: '2016-06-28T05:53:03.812Z'
+datePublished: '2016-06-28T05:53:04.025Z'
 title: ''
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/94abf708-9f9b-4994-aaca-0c9543854c36.jpg
-starred: false
 sourcePath: _posts/2016-06-28-patrick-danber.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
