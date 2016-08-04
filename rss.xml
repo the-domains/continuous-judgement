@@ -4,7 +4,7 @@
         <description><![CDATA[How I make me.]]></description>
         <link>http://patrickdanber.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 03:06:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 04:34:57 GMT</lastBuildDate>
         <atom:link href="http://patrickdanber.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Holiday Spektakulär]]></title>
@@ -47,13 +47,6 @@
             <link>http://patrickdanber.com/b9ff56d4-e8d2-4091-8996-fd9b489d5c51/index.html</link>
             <guid isPermaLink="false">b9ff56d4-e8d2-4091-8996-fd9b489d5c51</guid>
             <pubDate>Sun, 26 Jun 2016 04:41:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Patrick Danber 2013 Reel]]></title>
-            <description><![CDATA[<article><h1>Patrick Danber 2013 Reel</h1><p>Breakdown-all projects are by my production unless otherwise noted.</p></article>]]></description>
-            <link>https://vimeo.com/72496567</link>
-            <guid isPermaLink="false">87f71c42-9a7d-4305-8fc9-06f20f8ac2e0</guid>
-            <pubDate>Sun, 26 Jun 2016 04:28:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
