@@ -4,7 +4,7 @@
         <description><![CDATA[How I make me.]]></description>
         <link>http://patrickdanber.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 04:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 04:55:03 GMT</lastBuildDate>
         <atom:link href="http://patrickdanber.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://patrickdanber.com/b9ff56d4-e8d2-4091-8996-fd9b489d5c51/index.html</link>
             <guid isPermaLink="false">b9ff56d4-e8d2-4091-8996-fd9b489d5c51</guid>
             <pubDate>Thu, 04 Aug 2016 04:41:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3949b3eca8ae0b02f1deb09dc83c5d1c/croprotate.jpg?cropheight=2592&cropwidth=1936&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F12d74fbb-79bd-4f46-ba34-f0b21e42c7d7.jpg&x=0&y=0">]]></description>
-            <link>http://patrickdanber.com/5c1a8496-40e9-4f96-99a6-386841495e74/index.html</link>
-            <guid isPermaLink="false">5c1a8496-40e9-4f96-99a6-386841495e74</guid>
-            <pubDate>Thu, 04 Aug 2016 04:41:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
