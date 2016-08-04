@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T05:21:42.443Z'
+datePublished: '2016-08-04T05:23:26.466Z'
 sourcePath: _posts/2016-06-26-the-holiday-spektakular.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/149652370'
@@ -11,7 +11,7 @@ author:
     url: 'http://vimeo.com/elevatepictures'
     avatar: {}
 via: {}
-dateModified: '2016-08-04T05:21:42.041Z'
+dateModified: '2016-08-04T05:23:26.246Z'
 title: The Holiday Spektakulär
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/149652370'
@@ -50,7 +50,7 @@ description: >-
   when their car strikes what appears to be a grizzled, homeless man who has had
   a few too many spirits himself. Watch the Behind the Scenes here:
   https://vimeo.com/145452234 The Holiday Spektakulär Vol.
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
