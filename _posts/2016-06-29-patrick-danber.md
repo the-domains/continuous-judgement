@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-08-04T04:41:16.068Z'
+datePublished: '2016-08-04T04:45:46.927Z'
 sourcePath: _posts/2016-06-29-patrick-danber.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a58610a-448d-47f8-84c7-53c62c996a1b.jpg
 author: []
 via: {}
-dateModified: '2016-08-04T04:41:15.533Z'
+dateModified: '2016-08-04T04:45:45.475Z'
 title: Patrick Danber
 publisher: {}
 description: ''
+hasPage: true
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
+url: patrick-danber/index.html
 _type: MediaObject
 
 ---
