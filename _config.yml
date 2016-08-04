@@ -19,6 +19,9 @@ navigation:
   - name: about
     id: 5c0df68f-629b-49a2-826e-754ee431f19d
     type: content
+  - name: Spektakulär
+    id: b080accb-69e8-4e90-92ab-3dc6c86c965f
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/543d0879-dfde-4867-a3b1-9ab0aff90da6.ico
 collections:
