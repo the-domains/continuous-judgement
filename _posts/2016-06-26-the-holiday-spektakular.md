@@ -42,15 +42,14 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/149652370'
 title: The Holiday Spektakulär
-datePublished: '2016-06-27T03:17:27.658Z'
-dateModified: '2016-06-27T03:17:27.451Z'
+datePublished: '2016-08-04T04:46:09.267Z'
+dateModified: '2016-08-04T04:46:07.992Z'
 sourcePath: _posts/2016-06-26-the-holiday-spektakular.md
+hasPage: true
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: the-holiday-spektakular/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
