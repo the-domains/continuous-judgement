@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-04T05:01:52.924Z'
+datePublished: '2016-08-04T05:02:02.482Z'
 author: []
 via: {}
-dateModified: '2016-08-04T05:01:39.029Z'
+dateModified: '2016-08-04T05:02:02.194Z'
 title: >-
   I make things. I do this because it’s what I do best, and more so, I do this
   because it makes me happy. Applying my past experiences to a problem and
@@ -13,8 +13,8 @@ title: >-
   makes me me.
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-04-i-make-things-i-do-this-because-its-what-i-do-best-and-mo.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
