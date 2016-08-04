@@ -38,15 +38,14 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/72496567'
 title: Patrick Danber 2013 Reel
-datePublished: '2016-06-26T04:28:28.857Z'
-dateModified: '2016-06-26T04:24:21.275Z'
-starred: false
+datePublished: '2016-08-04T04:34:55.207Z'
+dateModified: '2016-08-04T04:34:54.978Z'
 sourcePath: _posts/2016-06-26-patrick-danber-2013-reel.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: patrick-danber-2013-reel/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
