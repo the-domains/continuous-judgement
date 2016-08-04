@@ -15,10 +15,7 @@ author:
   name: Patrick Danber
   email: patrick@patrickdanber.com
 name: Patrick Danber
-navigation:
-  - name: 2013 Reel
-    id: 87f71c42-9a7d-4305-8fc9-06f20f8ac2e0
-    type: content
+navigation: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/543d0879-dfde-4867-a3b1-9ab0aff90da6.ico
 collections:
